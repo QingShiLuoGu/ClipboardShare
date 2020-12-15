@@ -1,0 +1,4 @@
+include ':Client'
+include ':server'
+include ':app'
+rootProject.name = "ClipboardShare"
